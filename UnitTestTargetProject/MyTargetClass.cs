@@ -11,6 +11,11 @@
         {
             return pintFirstNumber - pintSecondNumber;
         }
+        
+        public int MutiplyNumbers(int pintFirstNumber, int pintSecondNumber)
+        {
+            return pintFirstNumber * pintSecondNumber;
+        }
 
         public int DivideNumbers(int pintFirstNumber, int pintSecondNumber)
         {
