@@ -12,7 +12,7 @@
             return pintFirstNumber - pintSecondNumber;
         }
         
-        public int MutiplyNumbers(int pintFirstNumber, int pintSecondNumber)
+        public int MutiplyNumber(int pintFirstNumber, int pintSecondNumber)
         {
             return pintFirstNumber * pintSecondNumber;
         }
