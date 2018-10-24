@@ -16,6 +16,16 @@ namespace MyUnitTests
         }
 
         [Fact]
+        public void VerifySum()
+        {
+            const int intFirstNumber = 25;
+            const int intsecondNumber = 20;
+            var objTargetClass = new MyTargetClass();
+            var intResult = objTargetClass.AddNumbers(intFirstNumber, intsecondNumber);
+            Assert.Equal(25 + 20, intResult);
+        }
+
+        [Fact]
         public void VerifySubtraction()
         {
             const int intFirstNumber = 15;
