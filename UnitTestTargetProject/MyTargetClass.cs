@@ -7,15 +7,8 @@
             return pintFirstNumber + pintSecondNumber;
         }
 
-        public int SubractNumbers(int pintFirstNumber, int pintSecondNumber)
-        {
-            return pintFirstNumber - pintSecondNumber;
-        }
+              
         
-        public int MutiplyNumber(int pintFirstNumber, int pintSecondNumber)
-        {
-            return pintFirstNumber * pintSecondNumber;
-        }
 
         public int DivideNumbers(int pintFirstNumber, int pintSecondNumber)
         {
