@@ -2,9 +2,9 @@
 {
     public class MyTargetClass
     {
-        public int AddNumbers(int pFirstNumber, int pSecondNumber)
+        public int AddNumbers(int FirstNumber, int SecondNumber)
         {
-            return pFirstNumber + pSecondNumber;
+            return FirstNumber + SecondNumber;
         }
 
         public int SubractNumbers(int pintFirstNumber, int pintSecondNumber)
