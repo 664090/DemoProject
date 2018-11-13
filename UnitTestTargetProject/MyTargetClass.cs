@@ -4,7 +4,7 @@
     {
         public int AddNumbers(int FirstNumber, int SecondNumber)
         {
-           // return FirstNumber + SecondNumber;
+            return FirstNumber + SecondNumber;
         }
 
         public int SubractNumbers(int pintFirstNumber, int pintSecondNumber)
